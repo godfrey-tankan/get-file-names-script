@@ -2,10 +2,10 @@ import os
 
 folder_path = "path/to/your/folder" 
 
-file_list = []  # List to store the file names
+file_list = []  
 
 for file_name in os.listdir(folder_path):
-    if file_name.endswith(".pdf"):  # Filter for PDF files (optional)
+    if file_name.endswith(".pdf"):  
         file_list.append(file_name)
 
 print(file_list)
