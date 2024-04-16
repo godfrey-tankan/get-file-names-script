@@ -1,6 +1,6 @@
 import os
 
-folder_path = "/home/username/Downloads/New folder/" 
+folder_path = "/home/tnqn/Documents/New folder/" 
 
 file_list = []  
 
