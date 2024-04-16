@@ -1,6 +1,6 @@
 import os
 
-folder_path = "path/to/your/folder"  # Replace with the actual folder path
+folder_path = "path/to/your/folder" 
 
 file_list = []  # List to store the file names
 
